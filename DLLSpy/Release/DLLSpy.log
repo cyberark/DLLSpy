@@ -1,0 +1,7 @@
+﻿  DLLSpy.cpp
+  Impersonation.cpp
+  StringsExtractor.cpp
+  ServiceRegistry.cpp
+  Utils.cpp
+DLLSpy.obj : error LNK2001: unresolved external symbol __imp__PathFileExistsA@4
+C:\Users\erans\Documents\Visual Studio 2015\Projects\DLLSpy - Copy\Release\DLLSpy.exe : fatal error LNK1120: 1 unresolved externals
