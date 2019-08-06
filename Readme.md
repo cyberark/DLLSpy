@@ -1,6 +1,6 @@
 # DLLSpy
 
-DLLSpy is a that detects DLL hijacking in running processes, services and in their binaries.
+DLLSpy is a tool that detects DLL hijacking in running processes, services and in their binaries.
 
 ## Installation
 
